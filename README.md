@@ -1,4 +1,4 @@
-# Personal Finance Tracker App
+# Personal Expenses Tracker App
 > A Personal Finance Tracker App for Android and iOS (also web compliant)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
