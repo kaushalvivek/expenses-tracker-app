@@ -40,7 +40,7 @@ The application is fairly intuitive to use,expenses are listed and visualized fo
 
 ## Meta
 
-Your Name – [@vivekkaushal98](https://twitter.com/vivekkaushal98) – vivek.kaushal@outlook.com
+Vivek Kaushal – [@vivekkaushal98](https://twitter.com/vivekkaushal98) – vivek.kaushal@outlook.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
