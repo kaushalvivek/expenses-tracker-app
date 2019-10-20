@@ -44,7 +44,7 @@ Vivek Kaushal – [@vivekkaushal98](https://twitter.com/vivekkaushal98) – vive
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/kaushalvivek](https://github.com/kaushalvivek/)
+[https://github.com/kaushalvivek](https://github.com/kaushalvivek/)
 
 *Built while learning from [Maximilian Schwarzmüller's](https://twitter.com/maxedapps) Flutter course available on Udemy.*
 
